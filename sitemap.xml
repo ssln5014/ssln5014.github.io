@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://salens.cf/photo/photo1/index.html</loc>
+    
+    <lastmod>2022-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/photo/photo2/index.html</loc>
+    
+    <lastmod>2022-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/gallery/index.html</loc>
+    
+    <lastmod>2022-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/link/index.html</loc>
+    
+    <lastmod>2022-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://salens.cf/en/</loc>
     
     <lastmod>2022-01-28</lastmod>
@@ -20,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/messageboard/index.html</loc>
-    
-    <lastmod>2022-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://salens.cf/categories/index.html</loc>
     
     <lastmod>2022-01-27</lastmod>
@@ -39,15 +66,6 @@
   
   <url>
     <loc>http://salens.cf/tags/index.html</loc>
-    
-    <lastmod>2022-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://salens.cf/link/index.html</loc>
     
     <lastmod>2022-01-27</lastmod>
     
