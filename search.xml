@@ -16,7 +16,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码块</span><br></pre></td></tr></table></figure>
 <!-- 在线音乐 -->
 
-    <div id="aplayer-bmhBsaZL" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-xwSGLFeB" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7982259537" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <!-- 链接卡片 -->
@@ -87,5 +87,25 @@
 </ol>
 <p>简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>疫情</title>
+    <url>/%E7%96%AB%E6%83%85/</url>
+    <content><![CDATA[<ul>
+<li>今天去做了核酸</li>
+<li>但并不只是今天</li>
+<li>我们要连着做六天</li>
+<li>因为有一位返乡阳性人员</li>
+<li><psw>祝他好运吧！</psw>
+</li>
+</ul>
+<center>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291516557.jpg" style="width:400px;"/></div></div>
+放个图图
+</center>
+]]></content>
+      <tags>
+        <tag>疫情</tag>
+      </tags>
   </entry>
 </search>
