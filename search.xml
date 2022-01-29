@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>嗯呢</title>
-    <url>/en/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><h1 id="Hello-初次见面"><a href="#Hello-初次见面" class="headerlink" title="Hello 初次见面"></a><center>Hello 初次见面</center></h1><blockquote>
-<p>今天是2022年1月28号，有点小雪。</p>
-</blockquote>
-<p>早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ。前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上。</p>
-<p>这个博客就用来写日志一类的吧。。。</p>
-<p><img src="https://raw.githubusercontent.com/ssln5014/pic-bed/main/%E6%94%BE%E4%B8%AA%E5%9B%BE%E5%9B%BE.jpg" alt="放个图图"></p>
-<pre><code><figure class="highlight css"><table><tr><td class="code"><pre><span class="line">hello</span><br></pre></td></tr></table></figure>
-</code></pre>
-
-    <div id="aplayer-nrOZnfbV" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>]]></content>
-  </entry>
-  <entry>
     <title>喵滴</title>
     <url>/miaodi/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><h1 id="快速排版😁"><a href="#快速排版😁" class="headerlink" title="快速排版😁"></a>快速排版😁</h1><p>在喵滴中，您可以使用Markdown语法进行快速排版，记得一定是要在非文字模式下哦，当然，喵滴默认就是非文字模式，只要您没有进行修改。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="快速排版😁"><a href="#快速排版😁" class="headerlink" title="快速排版😁"></a>快速排版😁</h1><p>在喵滴中，您可以使用Markdown语法进行快速排版，记得一定是要在非文字模式下哦，当然，喵滴默认就是非文字模式，只要您没有进行修改。</p>
 <p>首先您需要熟悉一下Markdown语法👀，详细的链接🔗在这里: <a href="https://www.miaodiapp.com/markdown.html">https://www.miaodiapp.com/markdown.html</a></p>
 <p>然后你就可以在这里快速排版啦，什么，你看不见效果，只是看见了一堆的符号？没关系，你⬅️左滑看看，预览效果就出来啦，然后选择右上角，导出为pdf即可。但有个小问题哦，在导出之前，记得先把编辑界面的字体调黑哦😯，不然看不见的鸭🦆。</p>
 <p>更多资料请看: <a href="https://www.miaodiapp.com/help.html">https://www.miaodiapp.com/help.html</a></p>
