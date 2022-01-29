@@ -3,7 +3,7 @@
   <entry>
     <title>喵滴</title>
     <url>/miaodi/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="快速排版😁"><a href="#快速排版😁" class="headerlink" title="快速排版😁"></a>快速排版😁</h1><p>在喵滴中，您可以使用Markdown语法进行快速排版，记得一定是要在非文字模式下哦，当然，喵滴默认就是非文字模式，只要您没有进行修改。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><h1 id="快速排版😁"><a href="#快速排版😁" class="headerlink" title="快速排版😁"></a>快速排版😁</h1><p>在喵滴中，您可以使用Markdown语法进行快速排版，记得一定是要在非文字模式下哦，当然，喵滴默认就是非文字模式，只要您没有进行修改。</p>
 <p>首先您需要熟悉一下Markdown语法👀，详细的链接🔗在这里: <a href="https://www.miaodiapp.com/markdown.html">https://www.miaodiapp.com/markdown.html</a></p>
 <p>然后你就可以在这里快速排版啦，什么，你看不见效果，只是看见了一堆的符号？没关系，你⬅️左滑看看，预览效果就出来啦，然后选择右上角，导出为pdf即可。但有个小问题哦，在导出之前，记得先把编辑界面的字体调黑哦😯，不然看不见的鸭🦆。</p>
 <p>更多资料请看: <a href="https://www.miaodiapp.com/help.html">https://www.miaodiapp.com/help.html</a></p>
