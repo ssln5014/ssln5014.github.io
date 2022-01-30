@@ -50,7 +50,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码块</span><br></pre></td></tr></table></figure>
 <!-- 在线音乐 -->
 
-    <div id="aplayer-sPAGHJBs" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-uilesXpI" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7982259537" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <!-- 链接卡片 -->
@@ -60,11 +60,11 @@
 <p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p>
 </div>
 <!-- 音频 -->
-<center><div class="audio"><audio controls preload><source src='https://www.salen.cf/api?path=/%E9%9F%B3%E4%B9%90/music/east/07.%E5%85%89%E8%BD%A8.mp3&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
+<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%E4%B8%8B%E8%BD%BD/ENEMY%20(%E5%AE%BF%E6%95%8C).mp3&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
 <center>👆终于学会音频怎么搞了hhh👆</center>
 <!-- 视频 -->
-<div class="video"><video controls preload><source src='https://www.salen.cf/api?path=/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/8k%20HDR%20Dolby%20Vision.webm&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
-<center>👆这是视频👆(竟然支持8k)</center>
+<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/Captures/%E5%8E%9F%E7%A5%9E%202021-10-17%2014-58-01.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
+<center>👆这是视频👆</center>
 
 <p><br><br><!-- 网站卡片 --><br><div class="site-card-group"><a class="site-card" href="https://salen.ml"><div class="img"><img src="https://www.salen.cf/api?path=/%E5%9B%BE%E7%89%87/Saved%20Pictures/20220129173139534.png&raw=true"/></div><div class="info"><img src="https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png"/><span class="title">Salen的箱子</span><span class="desc">我的箱子(*^_^*)</span></div></a></div></p>
 <!-- 如果需要显示类似「团队成员」之类的一组含有头像的链接： -->
@@ -134,7 +134,7 @@
 </ul>
 </blockquote>
 
-    <div id="aplayer-kFmltlvz" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-XAgUrkdB" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="000CNSMM2VdS6i" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <span class='p center small'>很喜欢的一首歌</span>
@@ -152,11 +152,16 @@
       </tags>
   </entry>
   <entry>
-    <title>movies</title>
-    <url>/movies/</url>
-    <content><![CDATA[<h1 id="qqq"><a href="#qqq" class="headerlink" title="qqq"></a>qqq</h1>]]></content>
+    <title>有趣。</title>
+    <url>/int/</url>
+    <content><![CDATA[<div class="video"><video controls preload><source src='https://salen.ml/gx/%E3%80%90HololiveEN%20%20%20Amelia%20Watson%E3%80%91%E8%87%AA%E7%A8%B1%E8%89%AF%E5%A5%BD%E5%85%AC%E6%B0%91%E4%B8%8B%E4%B8%80%E7%A7%92..%20%20%20%20%E9%98%BF%E6%A2%85%E7%9A%84GTA5%E7%B2%BE%E8%8F%AF%20%E3%80%90%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%E3%80%91.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    
+<h2 id="gta5"><a href="#gta5" class="headerlink" title="gta5"></a><center>gta5</center></h2><p><br><br><div class="video"><video controls preload><source src='https://salen.ml/gx/Gura%E5%87%BA%E9%81%93%E7%9B%B4%E6%92%AD%E5%9B%9E%E9%A1%A7%E7%B2%BE%E8%8F%AF[Gawr%20Gura][%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF][Hololive%20EN].mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    </p>
+<h2 id="gura"><a href="#gura" class="headerlink" title="gura"></a><center>gura</center></h2>]]></content>
       <categories>
-        <category>movies</category>
+        <category>interesting</category>
       </categories>
+      <tags>
+        <tag>interesting</tag>
+      </tags>
   </entry>
 </search>
