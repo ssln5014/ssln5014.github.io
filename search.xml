@@ -3,7 +3,7 @@
   <entry>
     <title>G.E.M</title>
     <url>/GEM/</url>
-    <content><![CDATA[<div class="video"><video controls preload><source src='<https://salen.ml/od/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/G.E.M.%E9%84%A7%E7%B4%AB%E6%A3%8B%E3%80%90%E5%85%A9%E5%80%8B%E8%87%AA%E5%B7%B1Double%20Me%E3%80%91(%E5%9C%8B)%20Official%20Music%20Video.mp4>' type='video/mp4'>Your browser does not support the video tag.</video></div>
+    <content><![CDATA[<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/G.E.M.%E9%84%A7%E7%B4%AB%E6%A3%8B%E3%80%90%E5%85%A9%E5%80%8B%E8%87%AA%E5%B7%B1Double%20Me%E3%80%91(%E5%9C%8B)%20Official%20Music%20Video.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
 <center>double you</center>
 <br>
 <div style="position: relative; padding: 30% 45%;">
@@ -16,6 +16,9 @@
 </div>
 <center>透明</center>
 ]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
       <tags>
         <tag>音乐</tag>
       </tags>
@@ -23,7 +26,12 @@
   <entry>
     <title>Reol</title>
     <url>/Reol/</url>
-    <content><![CDATA[<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/Captures/%E5%8E%9F%E7%A5%9E%202021-10-17%2014-58-01.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>]]></content>
+    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><div class="img-wrap"><div class="img-bg"><img class="img" src="https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No title−.jpg&raw=true" style="width:400px;"/></div></div>
+<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No%20title.flac&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
   </entry>
   <entry>
     <title>hello</title>
@@ -36,17 +44,17 @@
 <!-- 图片 -->
 <p><img src="https://raw.githubusercontent.com/ssln5014/pic-bed/main/%E6%94%BE%E4%B8%AA%E5%9B%BE%E5%9B%BE.jpg" alt="放个图图"></p>
 <!-- 固定图片 -->
-<div class="img-wrap"><div class="img-bg"><img class="img" src="<https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg>" style="width:400px;"/></div></div>
-<p>这是 <img no-lazy class="inline" src="<https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/0000.gif>" style="height:1.5em"/> 一段话。</p>
-<p>这又是 <img no-lazy class="inline" src="<https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/5150.gif>" style="height:40px;"/> 一段话。</p>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg" style="width:400px;"/></div></div>
+<p>这是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/0000.gif" style="height:1.5em"/> 一段话。</p>
+<p>这又是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/5150.gif" style="height:40px;"/> 一段话。</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码块</span><br></pre></td></tr></table></figure>
 <!-- 在线音乐 -->
 
-    <div id="aplayer-RoJiAWGT" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-sPAGHJBs" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7982259537" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <!-- 链接卡片 -->
-<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="<https://akilar.top/posts/615e2dec/>"><div class="left"><img src="<https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.ico>"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url"><https://akilar.top/posts/615e2dec/></p></div></a></div>
+<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>
 <!-- 诗词 -->
 <div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p>
 <p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p>
@@ -61,7 +69,7 @@
 <p><br><br><!-- 网站卡片 --><br><div class="site-card-group"><a class="site-card" href="https://salen.ml"><div class="img"><img src="https://www.salen.cf/api?path=/%E5%9B%BE%E7%89%87/Saved%20Pictures/20220129173139534.png&raw=true"/></div><div class="info"><img src="https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png"/><span class="title">Salen的箱子</span><span class="desc">我的箱子(*^_^*)</span></div></a></div></p>
 <!-- 如果需要显示类似「团队成员」之类的一组含有头像的链接： -->
 <div class="btns circle grid5">
-            <a class="button" href='<https://xaoxuu.com>' title='xaoxuu'><img src='<https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png>'>xaoxuu</a>
+            <a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a>
 
           </div>
 <!-- 或者含有图标的按钮： -->
@@ -126,7 +134,7 @@
 </ul>
 </blockquote>
 
-    <div id="aplayer-iFWGxgsy" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-kFmltlvz" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="000CNSMM2VdS6i" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <span class='p center small'>很喜欢的一首歌</span>
@@ -142,5 +150,13 @@
       <tags>
         <tag>疫情</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>movies</title>
+    <url>/movies/</url>
+    <content><![CDATA[<h1 id="qqq"><a href="#qqq" class="headerlink" title="qqq"></a>qqq</h1>]]></content>
+      <categories>
+        <category>movies</category>
+      </categories>
   </entry>
 </search>

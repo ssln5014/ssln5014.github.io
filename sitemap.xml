@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://salens.cf/movies/</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/movies/index.html</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://salens.cf/Reol/</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/tags/index.html</loc>
     
     <lastmod>2022-01-30</lastmod>
     
@@ -13,7 +40,7 @@
   <url>
     <loc>http://salens.cf/GEM/</loc>
     
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +49,7 @@
   <url>
     <loc>http://salens.cf/hello/</loc>
     
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,15 +101,6 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/movies/index.html</loc>
-    
-    <lastmod>2022-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://salens.cf/photo/photo2/index.html</loc>
     
     <lastmod>2022-01-28</lastmod>
@@ -126,7 +144,21 @@
 
   
   <url>
+    <loc>http://salens.cf/categories/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/categories/movies/</loc>
     <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
