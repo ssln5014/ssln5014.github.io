@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://salens.cf/Reol/</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://salens.cf/GEM/</loc>
     
     <lastmod>2022-01-29</lastmod>
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/index.html</loc>
-    
-    <lastmod>2022-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://salens.cf/movies/index.html</loc>
     
     <lastmod>2022-01-29</lastmod>
@@ -103,22 +103,22 @@
 
   <url>
     <loc>http://salens.cf/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://salens.cf/tags/%E7%96%AB%E6%83%85/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <loc>http://salens.cf/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <loc>http://salens.cf/tags/%E7%96%AB%E6%83%85/</loc>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -127,7 +127,7 @@
   
   <url>
     <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
