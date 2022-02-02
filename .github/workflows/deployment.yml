@@ -1,42 +1,39 @@
-name: Deployment
 
-on:
-  push:
-    branches: [hexo] 
+name: Hexo Auto-Deploy
+on: [hexo]
 
 jobs:
-  hexo-deployment:
+  build:
+    name: Hexo Auto-Deploy by GitHub Actions
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Shanghai
 
     steps:
-    - name: Checkout source
-      uses: actions/checkout@v2
-      with:
-        submodules: true
-
-    - name: Setup Node.js
+    - name: 1. git checkout...
+      uses: actions/checkout@v1
+      
+    - name: 2. setup nodejs...
       uses: actions/setup-node@v1
-      with:
-        node-version: '12.x'
-
-    - name: Install dependencies & Generate static files
+    
+    - name: 3. install hexo...
       run: |
-        node -v
-        npm i -g hexo-cli
-        npm i
+        npm install hexo-cli -g
+        npm install
+        
+    - name: 4. hexo generate public files...
+      run: |
         hexo clean
-        hexo g
-    - name: Deploy to Github Pages
-      env:
-        GIT_NAME: ssln5014
-        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-        REPO: github.com/ssln5014/ssln5014.github.io
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        hexo g  
+
+    - name: 5. hexo deploy ...
       run: |
-        cd ./public && git init && git add .
-        git config --global user.name $GIT_NAME
-        git config --global user.email $GIT_EMAIL
-        git commit -m "Site deployed by GitHub Actions"
-        git push --force --quiet "https://$GH_TOKEN@$REPO" main:main
+        mkdir -p ~/.ssh/
+        echo "${{ secrets.GITHUB_ACTION }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        
+        git config --global user.name "ssln5014"
+        git config --global user.email "2285740204@qq.com"
+        git config --global core.quotepath false
+        
+        hexo d
+
