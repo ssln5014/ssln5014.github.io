@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://salens.cf/%E8%BF%87%E5%B9%B4%E5%95%A6%EF%BC%81/</loc>
+    
+    <lastmod>2022-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://salens.cf/%E6%A0%87%E7%AD%BE%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/</loc>
     
     <lastmod>2022-02-02</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://salens.cf/link/index.html</loc>
-    
-    <lastmod>2022-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://salens.cf/%E8%BF%87%E5%B9%B4%E5%95%A6%EF%BC%81/</loc>
     
     <lastmod>2022-02-02</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/Reol/</loc>
+    <loc>http://salens.cf/hello/</loc>
     
     <lastmod>2022-02-02</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/hello/</loc>
+    <loc>http://salens.cf/Reol/</loc>
     
     <lastmod>2022-02-02</lastmod>
     
@@ -189,13 +189,6 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/interesting/</loc>
-    <lastmod>2022-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://salens.cf/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-02-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -203,7 +196,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/%E9%98%B2%E7%96%AB/</loc>
+    <loc>http://salens.cf/tags/interesting/</loc>
     <lastmod>2022-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -211,6 +204,13 @@
   
   <url>
     <loc>http://salens.cf/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/tags/%E9%98%B2%E7%96%AB/</loc>
     <lastmod>2022-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/categories/interesting/</loc>
+    <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://salens.cf/categories/interesting/</loc>
     <lastmod>2022-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

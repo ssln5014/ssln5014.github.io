@@ -13,9 +13,7 @@ npm install hexo
 npm install
 npm install hexo-deployer-git
 上传
-git add .
-git commit -m "..."
-git push origin hexo
+git add . && git commit -m "..." && git push origin hexo
 编译
 hexo clean && hexo g && hexo s
 端口
