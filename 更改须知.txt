@@ -1,6 +1,0 @@
-git config --global core.autocrlf false
-hexo clean
-hexo g
-hexo d
-ssln5014
-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
