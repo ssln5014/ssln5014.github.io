@@ -13,7 +13,7 @@ npm install hexo
 npm install
 npm install hexo-deployer-git
 上传
-git add . && git commit -m "..." && git push origin hexo
+git add . ; git commit -m "..." ; git push origin hexo
 编译
 hexo clean && hexo g && hexo s
 端口
@@ -26,3 +26,8 @@ http://localhost:4000
 git config --global core.autocrlf false
 最后
 hexo clean && hexo g && hexo d
+
+命令	描述
+A ; B	执行A后不论A的返回结果接着执行B
+A && B 	执行A后，仅在A成功运行后执行B
+A || B	执行A后仅在A失败后执行A
