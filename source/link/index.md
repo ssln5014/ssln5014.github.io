@@ -28,12 +28,12 @@ highlight_shrink:
     aplayer	【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置
     highlight_shrink	【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置) 
     -->
-{% tip success %}
+{% note default simple %}
 {% link Salen的潜影箱, https://salen.ml, https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png %}
-{% endtip %}
+{% endnote %}
 {% note primary simple %}
-{% link 看动漫的好地方, http://www.zzzfun.com/, https://oss.tool.lu/cache/202201/31/202548qj435br2b4iwye0y.jpg.icon.png %}
+{% link 看动漫的好地方, http://www.zzzfun.com/, https://pic.rmb.bdstatic.com/bjh/bc5a6ca8177432c1aaf4b4d9b7d1f880.jpeg %}
 {% endnote %}
 {% note default simple %}
-{% link 在线工具, https://tool.lu/, https://oss.tool.lu/cache/202201/31/202548qj435br2b4iwye0y.jpg.icon.png %}
+{% link 在线工具, https://tool.lu/, https://pic.rmb.bdstatic.com/bjh/4b8579ba5e07dd57405973606e777476.jpeg %}
 {% endnote %}

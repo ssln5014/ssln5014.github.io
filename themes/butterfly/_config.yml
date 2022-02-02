@@ -78,7 +78,7 @@ favicon: /img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png
+  img: https://avatars.githubusercontent.com/u/81206855
   effect: false
 
 # Disable all banner image
