@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Reol</title>
+    <url>/Reol/</url>
+    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><div class="img-wrap"><div class="img-bg"><img class="img" src="https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No title−.jpg&raw=true" style="width:400px;"/></div></div>
+<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No%20title.flac&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+  </entry>
+  <entry>
     <title>G.E.M</title>
     <url>/GEM/</url>
     <content><![CDATA[<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/G.E.M.%E9%84%A7%E7%B4%AB%E6%A3%8B%E3%80%90%E5%85%A9%E5%80%8B%E8%87%AA%E5%B7%B1Double%20Me%E3%80%91(%E5%9C%8B)%20Official%20Music%20Video.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
@@ -24,14 +34,119 @@
       </tags>
   </entry>
   <entry>
-    <title>Reol</title>
-    <url>/Reol/</url>
-    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><div class="img-wrap"><div class="img-bg"><img class="img" src="https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No title−.jpg&raw=true" style="width:400px;"/></div></div>
-<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No%20title.flac&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
+    <title>Hello</title>
+    <url>/hello/</url>
+    <content><![CDATA[<p class='p center logo large'>这很核里</p>
+<blockquote>
+<p>这是一个教程贴<br>今天是2022年1月28号，有点小雪。</p>
+</blockquote>
+<h3 id="早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ"><a href="#早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ" class="headerlink" title="早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ"></a>早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ</h3><h3 id="前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上"><a href="#前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上" class="headerlink" title="前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上"></a>前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上</h3><p class='p red'>这个博客就用来写日志一类的吧。。。</p>
+<!-- 图片 -->
+<p><img src="https://raw.githubusercontent.com/ssln5014/pic-bed/main/%E6%94%BE%E4%B8%AA%E5%9B%BE%E5%9B%BE.jpg" alt="放个图图"></p>
+<!-- 固定图片 -->
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg" style="width:400px;"/></div></div>
+<p>这是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/0000.gif" style="height:1.5em"/> 一段话。</p>
+<p>这又是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/5150.gif" style="height:40px;"/> 一段话。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码块</span><br></pre></td></tr></table></figure>
+<!-- 在线音乐 -->
+
+    <div id="aplayer-HyRdUqfV" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="7982259537" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+<!-- 链接卡片 -->
+<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>
+<!-- 诗词 -->
+<div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p>
+<p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p>
+</div>
+<!-- 音频 -->
+<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%E4%B8%8B%E8%BD%BD/ENEMY%20(%E5%AE%BF%E6%95%8C).mp3&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
+<center>👆终于学会音频怎么搞了hhh👆</center>
+<!-- 视频 -->
+<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/Captures/%E5%8E%9F%E7%A5%9E%202021-10-17%2014-58-01.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
+<center>👆这是视频👆</center>
+
+<p><br><br><!-- 网站卡片 --><br><div class="site-card-group"><a class="site-card" href="https://salen.ml"><div class="img"><img src="https://www.salen.cf/api?path=/%E5%9B%BE%E7%89%87/Saved%20Pictures/20220129173139534.png&raw=true"/></div><div class="info"><img src="https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png"/><span class="title">Salen的箱子</span><span class="desc">我的箱子(*^_^*)</span></div></a></div></p>
+<!-- 如果需要显示类似「团队成员」之类的一组含有头像的链接： -->
+<div class="btns circle grid5">
+            <a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a>
+
+          </div>
+<!-- 或者含有图标的按钮： -->
+<div class="btns rounded grid5">
+            <a class="button" href='/' title='下载源码'><i class='fas fa-download'></i>下载源码</a>
+<a class="button" href='/' title='查看文档'><i class='fas fa-book-open'></i>查看文档</a>
+          </div>
+<!-- 圆形图标 + 标题 + 描述 + 图片 + 网格 5 列 + 居中 -->
+<div class="btns circle center grid5">
+            <a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
+  <i class='fab fa-apple'></i>
+  <b>心率管家</b>
+  <p class='p red'>专业版</p>
+  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/heartmate_pro.png'>
+</a>
+<a href='https://apps.apple.com/cn/app/heart-mate-lite-hrm-utility/id1475747930?ls=1'>
+  <i class='fab fa-apple'></i>
+  <b>心率管家</b>
+  <p class='p green'>免费版</p>
+  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/heartmate_lite.png'>
+</a>
+          </div>
+<!-- 段落颜色 -->
+<ul>
+<li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<p class='p red'>红色</p>、<p class='p yellow'>黄色</p>、<p class='p green'>绿色</p>、<p class='p cyan'>青色</p>、<p class='p blue'>蓝色</p>、<p class='p gray'>灰色</p>。</li>
+<li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<p class='p center logo large'>Volantis</p>
+<p class='p center small'>A Wonderful Theme for Hexo</p>
+</li>
+</ul>
+<!-- 行内文本 -->
+<ul>
+<li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<span class='p red'>红色</span>、<span class='p yellow'>黄色</span>、<span class='p green'>绿色</span>、<span class='p cyan'>青色</span>、<span class='p blue'>蓝色</span>、<span class='p gray'>灰色</span>。</li>
+<li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<span class='p center logo large'>Volantis</span>
+<span class='p center small'>A Wonderful Theme for Hexo</span>
+</li>
+</ul>
+<!-- 行内文本样式 text -->
+<ol>
+<li>带 <u>下划线</u> 的文本</li>
+<li>带 <emp>着重号</emp> 的文本</li>
+<li>带 <wavy>波浪线</wavy> 的文本</li>
+<li>带 <del>删除线</del> 的文本</li>
+<li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li>
+<li>密码样式的文本：<psw>这里没有验证码</psw></li>
+</ol>
+<p>简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>
 ]]></content>
       <categories>
-        <category>音乐</category>
+        <category>日常</category>
       </categories>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有趣。</title>
+    <url>/int/</url>
+    <content><![CDATA[<div class="video"><video controls preload><source src='https://salen.ml/od/%E8%A7%86%E9%A2%91/%E3%80%90HololiveEN%20%20%20Amelia%20Watson%E3%80%91%E8%87%AA%E7%A8%B1%E8%89%AF%E5%A5%BD%E5%85%AC%E6%B0%91%E4%B8%8B%E4%B8%80%E7%A7%92..%20%20%20%20%E9%98%BF%E6%A2%85%E7%9A%84GTA5%E7%B2%BE%E8%8F%AF%20%E3%80%90%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%E3%80%91.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    
+<h2 id="gta5"><a href="#gta5" class="headerlink" title="gta5"></a><center>gta5</center></h2><div class="video"><video controls preload><source src='https://salen.ml/od/%E8%A7%86%E9%A2%91/Gura%E5%87%BA%E9%81%93%E7%9B%B4%E6%92%AD%E5%9B%9E%E9%A1%A7%E7%B2%BE%E8%8F%AF[Gawr%20Gura][%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF][Hololive%20EN].mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    
+<h2 id="gura"><a href="#gura" class="headerlink" title="gura"></a><center>gura</center></h2><div style="position: relative; padding: 30% 45%;">
+<iframe src="//player.bilibili.com/player.html?aid=677823526&bvid=BV19m4y1Q7s2&cid=473368066&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>      
+<div style="position: relative; padding: 30% 45%;">
+<iframe src="//player.bilibili.com/player.html?aid=803361802&bvid=BV1Ty4y137ia&cid=345039837&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>      
+<div style="position: relative; padding: 30% 45%;">
+<iframe src="//player.bilibili.com/player.html?aid=976094863&bvid=BV1m44y1x76h&cid=425830446&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>
+<div style="position: relative; padding: 30% 45%;">
+<iframe src="//player.bilibili.com/player.html?aid=204751646&bvid=BV1vh411S7zc&cid=314779184&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>]]></content>
+      <categories>
+        <category>interesting</category>
+      </categories>
+      <tags>
+        <tag>interesting</tag>
+      </tags>
   </entry>
   <entry>
     <title>标签使用指北</title>
@@ -438,118 +553,19 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello</title>
-    <url>/hello/</url>
-    <content><![CDATA[<p class='p center logo large'>这很核里</p>
-<blockquote>
-<p>这是一个教程贴<br>今天是2022年1月28号，有点小雪。</p>
-</blockquote>
-<h3 id="早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ"><a href="#早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ" class="headerlink" title="早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ"></a>早上睡不醒啊，起床真是一种煎熬ヽ༼⁰o⁰；༽ノ</h3><h3 id="前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上"><a href="#前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上" class="headerlink" title="前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上"></a>前几天发现了一首很好听的歌，晚些研究一下怎么放到网页上</h3><p class='p red'>这个博客就用来写日志一类的吧。。。</p>
-<!-- 图片 -->
-<p><img src="https://raw.githubusercontent.com/ssln5014/pic-bed/main/%E6%94%BE%E4%B8%AA%E5%9B%BE%E5%9B%BE.jpg" alt="放个图图"></p>
-<!-- 固定图片 -->
-<div class="img-wrap"><div class="img-bg"><img class="img" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg" style="width:400px;"/></div></div>
-<p>这是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/0000.gif" style="height:1.5em"/> 一段话。</p>
-<p>这又是 <img no-lazy class="inline" src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/aru-l/5150.gif" style="height:40px;"/> 一段话。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码块</span><br></pre></td></tr></table></figure>
-<!-- 在线音乐 -->
-
-    <div id="aplayer-JkWNgXsT" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="7982259537" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-<!-- 链接卡片 -->
-<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>
-<!-- 诗词 -->
-<div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p>
-<p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p>
-</div>
-<!-- 音频 -->
-<center><div class="audio"><audio controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%E4%B8%8B%E8%BD%BD/ENEMY%20(%E5%AE%BF%E6%95%8C).mp3&raw=true' type='audio/mp3'>Your browser does not support the audio tag.</audio></div></center>
-<center>👆终于学会音频怎么搞了hhh👆</center>
-<!-- 视频 -->
-<div class="video"><video controls preload><source src='https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/Captures/%E5%8E%9F%E7%A5%9E%202021-10-17%2014-58-01.mp4&raw=true' type='video/mp4'>Your browser does not support the video tag.</video></div>
-<center>👆这是视频👆</center>
-
-<p><br><br><!-- 网站卡片 --><br><div class="site-card-group"><a class="site-card" href="https://salen.ml"><div class="img"><img src="https://www.salen.cf/api?path=/%E5%9B%BE%E7%89%87/Saved%20Pictures/20220129173139534.png&raw=true"/></div><div class="info"><img src="https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png"/><span class="title">Salen的箱子</span><span class="desc">我的箱子(*^_^*)</span></div></a></div></p>
-<!-- 如果需要显示类似「团队成员」之类的一组含有头像的链接： -->
-<div class="btns circle grid5">
-            <a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a>
-
-          </div>
-<!-- 或者含有图标的按钮： -->
-<div class="btns rounded grid5">
-            <a class="button" href='/' title='下载源码'><i class='fas fa-download'></i>下载源码</a>
-<a class="button" href='/' title='查看文档'><i class='fas fa-book-open'></i>查看文档</a>
-          </div>
-<!-- 圆形图标 + 标题 + 描述 + 图片 + 网格 5 列 + 居中 -->
-<div class="btns circle center grid5">
-            <a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
-  <i class='fab fa-apple'></i>
-  <b>心率管家</b>
-  <p class='p red'>专业版</p>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/heartmate_pro.png'>
-</a>
-<a href='https://apps.apple.com/cn/app/heart-mate-lite-hrm-utility/id1475747930?ls=1'>
-  <i class='fab fa-apple'></i>
-  <b>心率管家</b>
-  <p class='p green'>免费版</p>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/qrcode/heartmate_lite.png'>
-</a>
-          </div>
-<!-- 段落颜色 -->
-<ul>
-<li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<p class='p red'>红色</p>、<p class='p yellow'>黄色</p>、<p class='p green'>绿色</p>、<p class='p cyan'>青色</p>、<p class='p blue'>蓝色</p>、<p class='p gray'>灰色</p>。</li>
-<li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<p class='p center logo large'>Volantis</p>
-<p class='p center small'>A Wonderful Theme for Hexo</p>
-</li>
-</ul>
-<!-- 行内文本 -->
-<ul>
-<li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<span class='p red'>红色</span>、<span class='p yellow'>黄色</span>、<span class='p green'>绿色</span>、<span class='p cyan'>青色</span>、<span class='p blue'>蓝色</span>、<span class='p gray'>灰色</span>。</li>
-<li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<span class='p center logo large'>Volantis</span>
-<span class='p center small'>A Wonderful Theme for Hexo</span>
-</li>
-</ul>
-<!-- 行内文本样式 text -->
-<ol>
-<li>带 <u>下划线</u> 的文本</li>
-<li>带 <emp>着重号</emp> 的文本</li>
-<li>带 <wavy>波浪线</wavy> 的文本</li>
-<li>带 <del>删除线</del> 的文本</li>
-<li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li>
-<li>密码样式的文本：<psw>这里没有验证码</psw></li>
-</ol>
-<p>简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>
+    <title>MC Time！！！</title>
+    <url>/mc%E6%97%B6%E9%97%B4%EF%BC%81%EF%BC%81%EF%BC%81/</url>
+    <content><![CDATA[<blockquote>
+<p>虽然网易版让我很不爽，但谁让它联机容易呢！<br>然鹅我的mc老容易崩溃<br><psw>(￢︿̫̿￢☆)</psw></p>
+<h3 id="先看gura"><a href="#先看gura" class="headerlink" title="先看gura"></a>先看gura</h3><div style="position: relative; padding: 30% 45%;">
+<iframe src="//player.bilibili.com/player.html?aid=210443162&bvid=BV1ka411z7o6&cid=478370320&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div></blockquote>
 ]]></content>
       <categories>
-        <category>日常</category>
+        <category>game</category>
       </categories>
       <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有趣。</title>
-    <url>/int/</url>
-    <content><![CDATA[<div class="video"><video controls preload><source src='https://salen.ml/od/%E8%A7%86%E9%A2%91/%E3%80%90HololiveEN%20%20%20Amelia%20Watson%E3%80%91%E8%87%AA%E7%A8%B1%E8%89%AF%E5%A5%BD%E5%85%AC%E6%B0%91%E4%B8%8B%E4%B8%80%E7%A7%92..%20%20%20%20%E9%98%BF%E6%A2%85%E7%9A%84GTA5%E7%B2%BE%E8%8F%AF%20%E3%80%90%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%E3%80%91.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    
-<h2 id="gta5"><a href="#gta5" class="headerlink" title="gta5"></a><center>gta5</center></h2><div class="video"><video controls preload><source src='https://salen.ml/od/%E8%A7%86%E9%A2%91/Gura%E5%87%BA%E9%81%93%E7%9B%B4%E6%92%AD%E5%9B%9E%E9%A1%A7%E7%B2%BE%E8%8F%AF[Gawr%20Gura][%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF][Hololive%20EN].mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>    
-<h2 id="gura"><a href="#gura" class="headerlink" title="gura"></a><center>gura</center></h2><div style="position: relative; padding: 30% 45%;">
-<iframe src="//player.bilibili.com/player.html?aid=677823526&bvid=BV19m4y1Q7s2&cid=473368066&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>      
-<div style="position: relative; padding: 30% 45%;">
-<iframe src="//player.bilibili.com/player.html?aid=803361802&bvid=BV1Ty4y137ia&cid=345039837&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>      
-<div style="position: relative; padding: 30% 45%;">
-<iframe src="//player.bilibili.com/player.html?aid=976094863&bvid=BV1m44y1x76h&cid=425830446&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>
-<div style="position: relative; padding: 30% 45%;">
-<iframe src="//player.bilibili.com/player.html?aid=204751646&bvid=BV1vh411S7zc&cid=314779184&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>]]></content>
-      <categories>
-        <category>interesting</category>
-      </categories>
-      <tags>
-        <tag>interesting</tag>
+        <tag>game</tag>
       </tags>
   </entry>
   <entry>
@@ -568,7 +584,7 @@
 </ul>
 </blockquote>
 
-    <div id="aplayer-mLCLuJKs" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-AWuFeQLZ" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="000CNSMM2VdS6i" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 <span class='p center small'>很喜欢的一首歌</span>
