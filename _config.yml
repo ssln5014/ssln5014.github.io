@@ -161,3 +161,9 @@ hpptalk:
   css:
   option:
   front_matter:
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: 
