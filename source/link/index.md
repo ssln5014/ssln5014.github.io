@@ -37,3 +37,7 @@ highlight_shrink:
 {% note default simple %}
 {% link 在线工具, https://tool.lu/, https://pic.rmb.bdstatic.com/bjh/4b8579ba5e07dd57405973606e777476.jpeg %}
 {% endnote %}
+
+{% note default simple %}
+{% link 后台入口, https://1.salen.workers.dev/hpp/admin/dash/home, https://pic.rmb.bdstatic.com/bjh/40c16098e2106681049e42d6eb3397e4.jpeg %}
+{% endnote %}
