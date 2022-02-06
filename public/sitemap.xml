@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/hello/</loc>
+    <loc>http://salens.cf/int/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/int/</loc>
+    <loc>http://salens.cf/hello/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/%E7%96%AB%E6%83%85/</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://salens.cf/%E8%BF%87%E5%B9%B4%E5%95%A6%EF%BC%81/</loc>
     
     <lastmod>2022-02-03</lastmod>
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/link/index.html</loc>
+    <loc>http://salens.cf/%E7%96%AB%E6%83%85/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -92,25 +83,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/movies/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://salens.cf/tags/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://salens.cf/music/2/index.html</loc>
+    <loc>http://salens.cf/link/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -128,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/music/%E5%96%9C%E6%AC%A2%E7%9A%84%E6%AD%8C%E6%89%8B/index.html</loc>
+    <loc>http://salens.cf/tags/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -146,16 +119,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://salens.cf/photo/photo1/index.html</loc>
+    <loc>http://salens.cf/movies/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -173,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD%E7%9A%84%E6%98%9F%E7%90%83/index.html</loc>
+    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -182,7 +146,43 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/%E5%B0%8F%E5%B0%8F%E4%B8%96%E7%95%8C/index.html</loc>
+    <loc>http://salens.cf/music/2/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/music/%E5%96%9C%E6%AC%A2%E7%9A%84%E6%AD%8C%E6%89%8B/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/photo/photo1/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/photo/photo2/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD%E7%9A%84%E6%98%9F%E7%90%83/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/photo/photo2/index.html</loc>
+    <loc>http://salens.cf/movies/%E7%BA%AA%E5%BD%95%E7%89%87/%E5%B0%8F%E5%B0%8F%E4%B8%96%E7%95%8C/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -225,14 +225,14 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://salens.cf/tags/interesting/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://salens.cf/tags/interesting/</loc>
+    <loc>http://salens.cf/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,14 +269,14 @@
   </url>
   
   <url>
-    <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://salens.cf/categories/interesting/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://salens.cf/categories/interesting/</loc>
+    <loc>http://salens.cf/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
