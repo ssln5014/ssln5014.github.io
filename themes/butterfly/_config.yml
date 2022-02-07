@@ -12,7 +12,7 @@ menu:
   影视: /movies/ || fas fa-video
   图片: /gallery/ || fas fa-images
   # 链接||fas fa-link || hide:
-  bb: /bb/ || fas fa-heart
+  # bb: /bb/ || fas fa-heart
   链接: /link/ || fas fa-link
 # Code Blocks (代码相关)
 # --------------------------------------

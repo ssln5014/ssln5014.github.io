@@ -6,7 +6,7 @@ type:
 comments:
 description:
 keywords:
-top_img: https://salen.ml/gx/bdab03bf004ececcd0785ce6befb63c8.jpg
+top_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201282023161.jpg
 mathjax:
 katex:
 aside:
@@ -15,4 +15,5 @@ highlight_shrink:
 ---
 {% gallery %}
 ![](https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201282023161.jpg)
+
 {% endgallery %}

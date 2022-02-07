@@ -28,16 +28,15 @@ highlight_shrink:
     aplayer	【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置
     highlight_shrink	【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置) 
     -->
-{% note default simple %}
-{% link Salen的潜影箱, https://salen.ml, https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png %}
-{% endnote %}
-{% note primary simple %}
-{% link 看动漫的好地方, http://www.zzzfun.com/, https://pic.rmb.bdstatic.com/bjh/bc5a6ca8177432c1aaf4b4d9b7d1f880.jpeg %}
-{% endnote %}
-{% note default simple %}
-{% link 在线工具, https://tool.lu/, https://pic.rmb.bdstatic.com/bjh/4b8579ba5e07dd57405973606e777476.jpeg %}
-{% endnote %}
 
-{% note default simple %}
-{% link 后台入口, https://1.salen.workers.dev/hpp/admin/dash/home, https://pic.rmb.bdstatic.com/bjh/40c16098e2106681049e42d6eb3397e4.jpeg %}
-{% endnote %}
+|      |      |      |
+| -- : | -- : | -- : |
+| {% link Salen的潜影箱, https://salen.ml, https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png %} | {% link 看动漫的好地方, http://www.zzzfun.com/, https://pic.rmb.bdstatic.com/bjh/bc5a6ca8177432c1aaf4b4d9b7d1f880.jpeg %} | {% link 在线工具, https://tool.lu/, https://pic.rmb.bdstatic.com/bjh/4b8579ba5e07dd57405973606e777476.jpeg %} |
+
+{% btns circle center grid5 %}
+<a href='https://1.salen.workers.dev/hpp/admin/login'>
+  <b>后台入口</b>
+  {% p red,  %}
+  <img src='https://pic.rmb.bdstatic.com/bjh/e6b8cc5e6591ba8b0c16c674488cb5d1.jpeg'>
+</a>
+{% endbtns %}
