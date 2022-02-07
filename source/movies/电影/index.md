@@ -46,5 +46,3 @@ aside:
 # <center>心灵捕手</center>
 {% video https://www.salen.ml/%E8%A7%86%E9%A2%91/%E7%94%B5%E5%BD%B1/%E5%BF%83%E7%81%B5%E6%8D%95%E6%89%8BBD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97.mp4 %}
  
-# <center>美丽心灵</center>
-{% video https://www.salen.ml/%E8%A7%86%E9%A2%91/%E7%94%B5%E5%BD%B1/%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5BD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97.mp4 %}
