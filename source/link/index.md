@@ -32,7 +32,7 @@ highlight_shrink:
 |      |      |      |
 | -- : | -- : | -- : |
 | {% link Salen的潜影箱, https://salen.ml, https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png %} | {% link 看动漫的好地方, http://www.zzzfun.com/, https://pic.rmb.bdstatic.com/bjh/d5a051b5da2da1f6bb929363550624e7.jpeg %} | {% link 在线工具, https://tool.lu/, https://pic.rmb.bdstatic.com/bjh/e550a15d92d75b0657ce49fb314589a6.jpeg %} |
-
+| {% link 莫扎兔:影视, https://www.mozhatu.com/, https://www.mozhatu.com/template/mgpc/image/favicon.png %} |      |      |
 {% btns circle center grid5 %}
 <a href='https://1.salen.workers.dev/hpp/admin/login'>
   <b>后台入口</b>
