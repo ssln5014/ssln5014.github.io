@@ -37,8 +37,8 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/ssln5014 || Github
-  fas fa-i-cursor: https://1.salen.workers.dev/hpp/admin/login || login
-  fas fa-upload: https://salen.cf/up || pic-bed
+  fas fa-i-cursor: https://xn--kprpc.cf/hpp/admin/login || 登陆
+  fas fa-upload: https://salen.ml/pb/ || 图床
 
 # search (搜索)
 # --------------------------------------
@@ -200,10 +200,10 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/ssln5014/ssln5014.github.io/tree/main/
+  url: https://xn--kprpc.cf/hpp/admin/login
 
 # Related Articles
 related_post:
