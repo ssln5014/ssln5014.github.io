@@ -30,7 +30,7 @@ aside: false
 <iframe src="//player.bilibili.com/player.html?aid=210443162&bvid=BV1ka411z7o6&cid=478370320&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
 </div>
 
-{% video https://3.salen.workers.dev/%E8%A7%86%E9%A2%91/Captures/bandicam%202022-02-07%2021-31-01-478.mp4 %}   
+{% video https://salist.ml/d/OneDrive/%E8%A7%86%E9%A2%91/Captures/bandicam%202022-02-07%2021-31-01-478.mp4 %}   
 <br>
 
 ![🌝](https://www.cdisk.cf/%E5%9B%BE%E7%89%87/Saved%20Pictures/1.jpg)
