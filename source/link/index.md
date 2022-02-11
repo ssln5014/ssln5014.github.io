@@ -32,7 +32,7 @@ highlight_shrink:
 |{% span blue, ( •̀ ω •́ )✧ %}|{% span cyan, (～￣▽￣)～ %}|{% span green, (❁´◡`❁) %}|
 | -- : | -- : | -- : |
 | {% link Salen的潜影箱, https://salen.ml, https://chirmyram.coding.net/p/ChirmyRam/d/blogpic/git/raw/master/index/nav/logo.png %} | {% link 看动漫的好地方, http://www.zzzfun.com/, https://demosc.chinaz.net/Files/pic/icons/8347/m2.png %} | {% link 在线工具, https://tool.lu/, https://demosc.chinaz.net/Files/pic/icons/8049/d6.png %} |
-| {% link 莫扎兔:影视, https://www.mozhatu.com/, https://www.mozhatu.com/template/mgpc/image/favicon.png %} | {% link D监控, https://monitor.dnspod.cn, https://pic.rmb.bdstatic.com/bjh/9527d8fec60a20ee6c7dfdb970607fb1.png %} | {% link salist, https://salist.ml, https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg %}  |
+| {% link 莫扎兔:影视, https://www.mozhatu.com/, https://www.mozhatu.com/template/mgpc/image/favicon.png %} | {% link D监控, https://monitor.dnspod.cn, https://pic.rmb.bdstatic.com/bjh/9527d8fec60a20ee6c7dfdb970607fb1.png %} | {% link salist, https://salist.ml, https://pic.rmb.bdstatic.com/bjh/a609217c74991b608eb1bf5c78698f4c.png %}  |
 | {% link 稳定性, https://salist.cf, https://pic.rmb.bdstatic.com/bjh/9c99fae4272675e5d8fc2036aaf1aa98.png %}  |  |
 {% btns circle center grid5 %}
 <a href='https://1.salen.workers.dev/hpp/admin/login'>
