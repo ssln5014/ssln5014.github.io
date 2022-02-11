@@ -89,7 +89,7 @@ disable_top_img: false
 index_img: https://s3.bmp.ovh/imgs/2022/01/961b990df7ce06f2.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic_source%2F33%2F0a%2F14%2F330a148f142c38cd45afa09fa8b2cc2a.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647171596&t=ee50453eba5960b43b1ac4b8fb9371f5
 
 # 归档页面的横幅图像
 archive_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291428783.jpg
