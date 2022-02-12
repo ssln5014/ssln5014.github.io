@@ -38,7 +38,7 @@ copy:
 social:
   fab fa-github: https://github.com/ssln5014 || Github
   fas fa-i-cursor: https://xn--kprpc.cf/hpp/admin/login || 登陆
-  fas fa-upload: https://salen.ml/pb/ || 图床
+  fa-solid fa-images: https://salen.ml/pb/ || 图床
 
 # search (搜索)
 # --------------------------------------
