@@ -1,5 +1,5 @@
 ---
-title: 换了腾讯的DNS解析
+title: emmm
 date: 2022-02-010 11:26:38
 updated:
 tags: 日常
@@ -22,8 +22,4 @@ highlight_shrink:
 aside: false
 ---
 
->虽然cloudflare很强
-
->但架不住它在国外。
-
->腾讯，你坏事做尽😇!
+# 😇!
