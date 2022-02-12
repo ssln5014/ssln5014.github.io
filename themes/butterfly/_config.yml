@@ -7,13 +7,13 @@ menu:
   档案: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  # 列表||fas fa-list || hide:
   音乐: /music/ || fas fa-music
   影视: /movies/ || fas fa-video
   图片: /gallery/ || fas fa-images
   # bb: /bb/ || fas fa-heart
-  链接: /link/ || fas fa-link
-  网盘: https://salist.ml || fa-solid fa-cloud
+  链接||fas fa-link || hide: 
+      网站: /link/ || fas fa-list
+      网盘: https://salist.ml || fa-solid fa-cloud
 # Code Blocks (代码相关)
 # --------------------------------------
 
