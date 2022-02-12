@@ -11,9 +11,9 @@ menu:
   音乐: /music/ || fas fa-music
   影视: /movies/ || fas fa-video
   图片: /gallery/ || fas fa-images
-  # 链接||fas fa-link || hide:
   # bb: /bb/ || fas fa-heart
   链接: /link/ || fas fa-link
+  网盘: https://salist.ml || fa-solid fa-cloud
 # Code Blocks (代码相关)
 # --------------------------------------
 
