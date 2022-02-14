@@ -21,6 +21,6 @@ aplayer: false
 highlight_shrink:
 aside: false
 ---
-{% span center SMALL, Reol %}
-{% meting "478566277" "netease" "playlist" %}
+{% span center small, G.E.M 邓紫棋 %}
+{% meting "126747075" "netease" "playlist" %}
 
