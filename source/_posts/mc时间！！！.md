@@ -4,7 +4,7 @@ date: 2022-02-06 19:15:38
 updated:
 tags: game
 top_img:
-cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.leiue.com%2Fuploads%2F2018%2F10%2FMinecraft.jpg&refer=http%3A%2F%2Fwww.leiue.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646738398&t=407d10d71475b5b58546cec6035f4151
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141520700.jpg
 categories: game
 keywords: game
 description: 

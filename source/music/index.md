@@ -6,7 +6,7 @@ type: "music"
 comments: false
 description:
 keywords: 音乐
-top_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291418228.jpg
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202201291418228.jpg
 aside: false
 aplayer: 
 highlight_shrink:

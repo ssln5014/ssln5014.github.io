@@ -2,7 +2,7 @@
 title: 图库
 date: 2022-01-28 19:30:20
 layout: gallery
-top_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291429795.jpg
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202201291429795.jpg
 comments: false
 description:
 keywords:

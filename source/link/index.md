@@ -6,7 +6,7 @@ type: "link"
 comments: false
 description:
 keywords:
-top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2019-05-31%2F5cf0e858651d3.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646213985&t=bc76b395b4495b5348e59c6a06fa142d
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141529503.jpg
 mathjax:
 katex:
 aside: false

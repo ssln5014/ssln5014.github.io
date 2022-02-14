@@ -4,7 +4,7 @@ date: 2022-01-29 19:40:05
 updated:
 tags: 音乐
 top_img: 
-cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20200321%2F06700b064fe84c2c8301848160781c7e.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646137905&t=9645316de178180fd408d4da99d8625b
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141517856.jpg
 categories: 音乐
 keywords:
 description: 邓紫棋の歌

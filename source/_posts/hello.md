@@ -4,7 +4,7 @@ date: 2022-01-28 12:56:04
 tags: 日常
 top_img:
 categories: 日常
-cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.yanlutong.com%2Fuploadimg%2Fimage%2F20201125%2F20201125165827_39707.jpg&refer=http%3A%2F%2Fimg.yanlutong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646141278&t=5051846a000d3004e09504302b0c5ac0
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141519381.jpg
 ---
 {% p center logo large, 这很核里 %}
 >这是一个教程贴

@@ -4,7 +4,7 @@ date: 2022-01-30 13:35:33
 updated: 
 tags: interesting
 top_img: 
-cover: https://s2.loli.net/2022/01/31/HOTNygAV8lI7pQw.png
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141520621.png
 categories: interesting
 keywords: 有意思
 description:

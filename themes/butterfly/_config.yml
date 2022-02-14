@@ -79,7 +79,7 @@ favicon: /img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://avatars.githubusercontent.com/u/81206855
+  img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141602873.png
   effect: false
 
 # Disable all banner image
@@ -92,11 +92,11 @@ index_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202111950210.png
 default_top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202111950210.png
 
 # 归档页面的横幅图像
-archive_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291428783.jpg
+archive_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202201291428783.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子标籤页面的 top_img)
-tag_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic_source%2Fb4%2F70%2F83%2Fb47083397f3589c5535c46255394b889.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646139702&t=d7e7acaec4daad6c6ccfa98ba3c3b334
+tag_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141506800.jpg
 
 # The banner image of tag page
 # format:
@@ -105,7 +105,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分类页面的 top_img)
-category_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ftva2.sinaimg.cn%2Flarge%2F006yt1Omly1g1z2uc4wdij31z4140e85.jpg&refer=http%3A%2F%2Ftva2.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646139702&t=9a61bb02437b146b94cad19c827a9457
+category_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141506509.jpg
 
 # The banner image of category page
 # format:
@@ -122,7 +122,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-    - https://s3.bmp.ovh/imgs/2022/01/8f490104ca4932dd.png
+    - https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141508373.jpg
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
@@ -133,7 +133,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.huashi6.com%2Fimages%2Fresource%2F2017%2F01%2F13%2F6091h4916p0.jpg%3FimageView2%2F3%2Fq%2F100%2Finterlace%2F1%2Fw%2F1600%2Fh%2F1600&refer=http%3A%2F%2Fimg2.huashi6.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646140648&t=6de7db3d441ebff0254a58e6158d6798
+  background: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141508650.jpg
 
 post_meta:
   page: # Home Page
@@ -487,7 +487,7 @@ tag_ui: # 留空或 index
 # Website Background (设置网站背景)
 # can set it to color or image (可设置图片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201290956373.png
+background: 
 
 # Footer Background
 footer_bg: false
@@ -514,7 +514,7 @@ canvas_ribbon:
 # Fluttering Ribbon (动态彩带)
 canvas_fluttering_ribbon:
   enable: true
-  mobile: true
+  mobile: false
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
@@ -736,7 +736,7 @@ mermaid:
   enable: false
   # built-in themes: default/forest/dark/neutral
   theme:
-    light: default
+    light: neutral
     dark: dark
 
 # Note (Bootstrap Callout)

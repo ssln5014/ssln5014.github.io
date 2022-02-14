@@ -4,7 +4,7 @@ date: 2022-01-30 09:35:33
 updated: 
 tags: 
 top_img: 
-cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0125f55df6ed66a801219ccea7841a.jpg%403000w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646137604&t=e92bb0a138ef88245740ad0db13958390
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141521816.jpg
 categories: 音乐
 keywords:
 description:

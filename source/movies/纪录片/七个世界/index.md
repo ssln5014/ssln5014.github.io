@@ -3,7 +3,7 @@ title: 七个世界，一个星球
 date: 2022-01-30 11:10:01
 updated:
 tags: 
-top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi2.tiimg.com%2F588755%2F3cee6d2bb942a141.jpg&refer=http%3A%2F%2Fi2.tiimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646481593&t=5c048f7d0d69e6bf8d3ae0b4d76a2e9b
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141528848.jpg
 cover: 
 categories: 纪录片
 keywords:

@@ -3,7 +3,7 @@ title: 小小世界
 date: 2022-01-30 11:10:01
 updated:
 tags: 
-top_img: https://pic.rmb.bdstatic.com/bjh/5036b4a54d2e6ec8bd9b2992d5150dd5.jpeg
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141527106.jpg
 cover: 
 categories: 纪录片
 keywords:

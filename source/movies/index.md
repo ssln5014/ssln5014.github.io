@@ -6,7 +6,7 @@ type: "movies"
 comments: false
 description:
 keywords:
-top_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201291423592.jpg
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202201291423592.jpg
 mathjax:
 katex:
 aside: false

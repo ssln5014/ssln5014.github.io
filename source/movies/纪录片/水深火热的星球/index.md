@@ -3,7 +3,7 @@ title: 水深火热的星球
 date: 2022-01-30 11:10:01
 updated:
 tags: 
-top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi1.fuimg.com%2F588755%2F3824fad3ce852e62.jpg&refer=http%3A%2F%2Fi1.fuimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1646485197&t=258e5122ccb5dfa8ddcf831af696783c
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141527775.jpg
 cover: 
 categories: 纪录片
 keywords:

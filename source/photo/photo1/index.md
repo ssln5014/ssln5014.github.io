@@ -6,7 +6,7 @@ type:
 comments: false
 description:
 keywords:
-top_img: https://raw.githubusercontent.com/ssln5014/pic-bed/main/202201282023161.jpg
+top_img: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202201282023161.jpg
 mathjax:
 katex:
 aside: false
@@ -49,7 +49,6 @@ highlight_shrink:
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071825428.jpg)
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071825429.jpg)
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071825430.jpg)
-
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071826487.jpg)
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071826488.png)
 ![](https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202071826489.png)
