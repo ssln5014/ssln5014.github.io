@@ -21,8 +21,4 @@ aplayer: disable
 highlight_shrink:
 aside: false
 ---
-
-# hello
-{% image https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No title−.jpg&raw=true, width=400px%}
-
-<center>{% audio https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2014)%20No%20title/No%20title.flac&raw=true %}</center>
+{% video https://salist.ml/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91/%E3%80%90%F0%9D%9F%92%F0%9D%90%8A%F0%9D%9F%94%F0%9D%9F%8E%E3%80%91Reol-%E7%99%BD%E5%A4%9C.flv %}
