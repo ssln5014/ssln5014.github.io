@@ -1,6 +1,6 @@
 ---
-title: emmm
-date: 2022-02-10 11:26:38
+title: emmmmmmmmmmmmmmmm
+date: 2022-02-14 11:26:38
 updated:
 tags: 日常
 top_img:
@@ -23,3 +23,10 @@ aside: false
 ---
 
 # 😇!
+stateDiagram-v2
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
