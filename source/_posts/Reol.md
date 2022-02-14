@@ -21,4 +21,4 @@ aplayer: disable
 highlight_shrink:
 aside: false
 ---
-{% video https://salist.ml/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91/%E3%80%90%F0%9D%9F%92%F0%9D%90%8A%F0%9D%9F%94%F0%9D%9F%8E%E3%80%91Reol-%E7%99%BD%E5%A4%9C.flv %}
+{% audio https://salist.ml/d/OneDrive/%E9%9F%B3%E4%B9%90/%5BHi-Res%5D%20Reol/%5BHi-Res%5D%20Reol%20-%20(2021)%20%E7%AC%AC%E5%85%AD%E6%84%9F/%E7%AC%AC%E5%85%AD%E6%84%9F%20feat.%E6%9D%B1%E4%BA%AC%E3%82%B2%E3%82%B2%E3%82%B2%E3%82%A4.flac %}
