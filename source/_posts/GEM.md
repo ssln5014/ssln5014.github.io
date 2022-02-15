@@ -4,7 +4,7 @@ date: 2022-01-29 19:40:05
 updated:
 tags: 音乐
 top_img: 
-cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed@main/202202141517856.jpg
+cover: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141517856.jpg
 categories: 音乐
 keywords:
 description: 邓紫棋の歌
@@ -22,7 +22,7 @@ highlight_shrink:
 aside:
 ---
 
-{% video https://onedrive-vercel-index-eta-ten.vercel.app/api?path=/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/G.E.M.%E9%84%A7%E7%B4%AB%E6%A3%8B%E3%80%90%E5%85%A9%E5%80%8B%E8%87%AA%E5%B7%B1Double%20Me%E3%80%91(%E5%9C%8B)%20Official%20Music%20Video.mp4&raw=true %}
+{% video https://salist.ml/d/OneDrive/%E8%A7%86%E9%A2%91/%E5%BD%B1%E8%A7%86/G.E.M.%E9%84%A7%E7%B4%AB%E6%A3%8B%E3%80%90%E5%85%A9%E5%80%8B%E8%87%AA%E5%B7%B1Double%20Me%E3%80%91(%E5%9C%8B)%20Official%20Music%20Video.mp4 %}
 <center>double you</center>
 <br>
 <div style="position: relative; padding: 30% 45%;">
