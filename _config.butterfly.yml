@@ -11,13 +11,13 @@ menu:
   影视: /movies/ || fas fa-video
   图片: /gallery/ || fas fa-images
   # bb: /bb/ || fas fa-heart
-  链接||fas fa-link || hide: 
-      网站: /link/ || fas fa-list
-      网盘: https://salist.ml || fa-solid fa-cloud
+  链接||fas fa-link || hide:
+    网站: /link/ || fas fa-list
+    网盘: https://salist.ml || fa-solid fa-cloud
 # Code Blocks (代码相关)
 # --------------------------------------
 
-highlight_theme: mac light  #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: none # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -44,7 +44,7 @@ social:
 # --------------------------------------
 
 # Algolia search
-algolia_search: 
+algolia_search:
   enable: false
   hits:
     per_page: 6
@@ -132,7 +132,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: false
-  subtitle: 'Page Not Found'
+  subtitle: "Page Not Found"
   background: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141508650.jpg
 
 post_meta:
@@ -364,8 +364,8 @@ chat_hide_show: false
 # chatra
 # https://chatra.io/
 chatra:
-  enable: 
-  id: 
+  enable:
+  id:
 
 # tidio
 # https://www.tidio.com/
@@ -474,9 +474,9 @@ site_verification:
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默认top_img全屏，site_info在中间)
 # The position of site info, eg: 300px/300em/300rem/10% (主页标题距离顶部距离)
-index_site_info_top: 
+index_site_info_top:
 # The height of top_img, eg: 300px/300em/300rem (主页top_img高度)
-index_top_img_height: 
+index_top_img_height:
 
 # The user interface setting of category and tag page (category和tag页的UI设置)
 # index - same as Homepage UI (index 值代表 UI将与首页的UI一样)
@@ -487,13 +487,13 @@ tag_ui: # 留空或 index
 # Website Background (设置网站背景)
 # can set it to color or image (可设置图片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: 
+background:
 
 # Footer Background
 footer_bg: false
 
 # the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
-rightside-bottom: 
+rightside-bottom:
 
 # Enter transitions (开啓网页进入效果)
 enter_transitions: true
@@ -520,7 +520,7 @@ canvas_fluttering_ribbon:
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
   enable: false
-  color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  color: "0,0,255" #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.5 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 70 # the number of lines, default: 99.
@@ -541,7 +541,7 @@ fireworks:
   mobile: false
 
 # Mouse click effects: Heart symbol (鼠标点击效果: 爱心)
-click_heart: 
+click_heart:
   enable: true
   mobile: true
 
@@ -577,7 +577,7 @@ font:
 
 # Font settings for the site title and site subtitle
 # 左上角网站名字 主页居中网站名字
-blog_title_font: 
+blog_title_font:
   font_link:
   font-family:
 
@@ -689,9 +689,9 @@ translate:
   # Time delay
   translateDelay: 0
   # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: '繁'
+  msgToTraditionalChinese: "繁"
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '简'
+  msgToSimplifiedChinese: "简"
 
 # Read Mode (閲读模式)
 readmode: true
@@ -777,8 +777,8 @@ aplayerInject:
 snackbar:
   enable: true
   position: top-center
-  bg_light: '#49b1f5' # The background color of Toast Notification in light mode
-  bg_dark: '#121212' # The background color of Toast Notification in dark mode
+  bg_light: "#49b1f5" # The background color of Toast Notification in light mode
+  bg_dark: "#121212" # The background color of Toast Notification in dark mode
 
 # https://instant.page/
 # prefetch (预加载)
@@ -821,7 +821,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    
+
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/static-butterfly/dist/css/index.min.css">
@@ -908,8 +908,8 @@ CDN:
   flickr_justified_gallery_css:
 
   # aplayer
-  aplayer_css: 
-  aplayer_js: 
+  aplayer_css:
+  aplayer_js:
   meting_js:
 
   # Prism.js

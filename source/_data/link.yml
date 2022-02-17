@@ -1,16 +1,54 @@
-# - class_name: 友情链接
-#   class_desc: 那些人，那些事
-#   link_list:
-#     - name: 
-#       link: 
-#       avatar: 
-#       descr: 
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: 安冉岛 
+      link: https://ardao.cn 
+      avatar: https://cdn.jsdelivr.net/gh/king-zhangbn/picgo//img202111221202464.jpg 
+      descr: 一切安然~
+    # - name: 
+    #   link: 
+    #   avatar: 
+    #   descr: 
 
-# - class_name: 网站
-#   class_desc: 
-#   link_list:
-#     - name: Salen的潜影箱
-#       link: https://salen.ml
-#       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-#       descr: 我的网盘
+- class_name: 网站
+  class_desc: 
+  link_list:
+    - name: Salist
+      link: https://salist.ml
+      avatar: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202151407521.gif
+      descr: 我的网盘
+    
+    - name: 莫扎兔:影视
+      link: https://www.mozhatu.com/
+      avatar: https://www.mozhatu.com/template/mgpc/image/favicon.png
+      descr: 看剧的地方
 
+    - name: zzzfun
+      link: http://www.zzzfun.com/
+      avatar: https://demosc.chinaz.net/Files/pic/icons/8347/m2.png
+      descr: 看动漫的好地方
+
+    - name: 在线工具
+      link: https://tool.lu/
+      avatar: https://demosc.chinaz.net/Files/pic/icons/8049/d6.png
+      descr: 啥都有
+
+    - name: D监控
+      link: https://monitor.dnspod.cn
+      avatar: https://pic.rmb.bdstatic.com/bjh/9527d8fec60a20ee6c7dfdb970607fb1.png
+      descr: 安全第一
+
+    - name: 墨滴
+      link: https://editor.mdnice.com
+      avatar: https://cdn.jsdelivr.net/gh/ssln5014/pic-bed/202202141706472.png
+      descr: 写点什么...
+
+    - name: 稳定性
+      link: https://salist.cf
+      avatar: https://pic.rmb.bdstatic.com/bjh/9c99fae4272675e5d8fc2036aaf1aa98.png 
+      descr: 安全第一
+
+    # - name: 
+    #   link: 
+    #   avatar: 
+    #   descr: 
