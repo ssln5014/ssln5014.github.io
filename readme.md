@@ -1,7 +1,7 @@
 ## 程序下载
 ```
 https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
-https://odejs.org/dist/v16.13.2/node-v16.13.2-x64.msi
+https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi
 ```
 ## 生成ssh
 ```
