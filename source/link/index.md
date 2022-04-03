@@ -34,7 +34,7 @@ highlight_shrink:
 <a href='https://qexo.salist.me/'>
 <b>后台入口</b>
 {% p red,  %}
-<img src='https://pic.rmb.bdstatic.com/bjh/88b4915c192fcc39f1a89436c2cacc28.jpeg'>
+<img src='https://bu.dusays.com/2022/04/03/c8cbe347c9e97.png'>
 </a>
 {% endbtns %}
 
