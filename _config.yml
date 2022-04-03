@@ -151,16 +151,16 @@ aplayer:
 
   # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
-hpptalk:
-  enable: true 
-  domain: 1.salen.workers.dev
-  path:
-  limit:
-  start:
-  js:
-  css:
-  option:
-  front_matter:
+# hpptalk:
+#   enable: true 
+#   domain: 1.salen.workers.dev
+#   path:
+#   limit:
+#   start:
+#   js:
+#   css:
+#   option:
+#   front_matter:
 
 
 search:
