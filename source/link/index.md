@@ -13,6 +13,7 @@ aside: false
 aplayer:
 highlight_shrink:
 ---
+
 <!--     
     title	【必需】页面标题
     date	【必需】页面创建日期
@@ -28,10 +29,12 @@ highlight_shrink:
     aplayer	【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置
     highlight_shrink	【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置) 
     -->
+
 {% btns circle center grid5 %}
-<a href='https://1.salen.workers.dev/hpp/admin/login'>
-  <b>后台入口</b>
-  {% p red,  %}
-  <img src='https://pic.rmb.bdstatic.com/bjh/e6b8cc5e6591ba8b0c16c674488cb5d1.jpeg'>
+<a href='https://qexo.salist.me/'>
+<b>后台入口</b>
+{% p red,  %}
+<img src='https://pic.rmb.bdstatic.com/bjh/88b4915c192fcc39f1a89436c2cacc28.jpeg'>
 </a>
 {% endbtns %}
+
